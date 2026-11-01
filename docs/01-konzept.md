@@ -211,7 +211,7 @@ Die Fachlogik ist von Bildschirmen und Datenbank getrennt. Deshalb kann der Spei
 | Tests | Automatische Prüfungen für Logik und Abläufe | Jede neue Funktion wird geprüft, bevor sie genutzt wird | – |
 | KI (Phase 4) | Claude über eine eigene Schnittstelle | Strukturierte, begründete Vorschläge | Daten verlassen das Gerät. Deshalb werden nur Kürzel statt Namen übermittelt. |
 
-### Offene Entscheidung: Wo werden die Daten gespeichert?
+### Speicherort der Daten
 
 | | A: Auf dem eigenen Gerät | B: Web-App mit Server |
 |---|---|---|
@@ -220,6 +220,18 @@ Die Fachlogik ist von Bildschirmen und Datenbank getrennt. Deshalb kann der Spei
 | Mehrere Geräte | nur über Abgleich oder Export | ja |
 | Klienten tragen selbst ein | nein | möglich |
 | Aufwand und Kosten | gering | höher (Server, Sicherheit) |
+
+> **Entschieden: Variante B** (siehe [E-002 und E-003](entscheidungen.md)).
+> Nur der Trainer nutzt das Tool, und zwar auf Handy und Laptop. Auf beiden Geräten müssen dieselben Daten verfügbar sein, und das löst ein Server am einfachsten.
+> Statt eines eigenen Servers wird ein fertiger Dienst genutzt. Sicherheitsupdates, Sicherungskopien und Anmeldung übernimmt dann der Anbieter.
+> Welcher Anbieter es wird, ist noch offen.
+
+### Aufteilung nach Gerät (Vorschlag, noch nicht abgestimmt)
+
+- **Handy, während der Einheit:** schnelle Einträge wie Beobachtung, Klientenfeedback, Reaktion und Monitoring.
+- **Laptop, in Ruhe:** Zielzerlegung, Anforderungsmatrix, Planung und Verläufe.
+
+Große Matrizen sind auf dem Handy-Bildschirm unpraktisch. Diese Aufteilung bestimmt deshalb, welche Bildschirme zuerst für das Handy gestaltet werden.
 
 ### Datenschutz
 
@@ -242,7 +254,7 @@ Das ist keine Rechtsberatung. Die Architektur muss diese Anforderungen aber von 
 ### Phase 1 (aktuell)
 
 - 1a: Dieses Konzept gemeinsam abstimmen.
-- 1b: Klären, wie das Tool genutzt wird, und die Technik festlegen.
+- 1b: Klären, wie das Tool genutzt wird (erledigt, E-002 und E-003), und Technik und Anbieter festlegen (offen).
 - 1c: Datenmodell im Detail ausarbeiten, also die erste Liste der Anforderungsbereiche und die Bewertungsskala.
 - 1d: Einfache Skizzen der wichtigsten Bildschirme erstellen, bevor Code entsteht.
 
@@ -329,4 +341,8 @@ Die Reihenfolge sagittal → frontal → transversal ist eine Faustregel aus der
 
 ## Offene Fragen
 
-1. **Nutzung:** Wer nutzt das Tool auf welchen Geräten? Arbeitet nur der Trainer damit, am Laptop und auf Tablet oder Handy während der Einheit? Oder sollen Klienten auch selbst etwas eintragen, etwa ihre Reaktion am Folgetag? Davon hängt ab, ob Speichervariante A (eigenes Gerät) oder B (Server mit Anmeldung) gewählt wird.
+Die aktuellen offenen Punkte stehen im [Entscheidungsprotokoll](entscheidungen.md#offen).
+
+Bereits beantwortet:
+
+- **Nutzung:** Nur der Trainer nutzt das Tool, auf Handy und Laptop. Klienten tragen nichts selbst ein (E-002).
