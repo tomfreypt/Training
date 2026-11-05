@@ -256,7 +256,7 @@ Das ist keine Rechtsberatung. Die Architektur muss diese Anforderungen aber von 
 
 - 1a: Dieses Konzept gemeinsam abstimmen.
 - 1b: Klären, wie das Tool genutzt wird (erledigt, E-002 und E-003), und Technik und Anbieter festlegen (offen).
-- 1c: Datenmodell im Detail ausarbeiten, also die Bewertungsskala (Grundform entschieden, E-004; Details im [Bewertungsmodell](02-bewertungsmodell.md)) und die erste Liste der Anforderungsbereiche.
+- 1c: Datenmodell im Detail ausarbeiten, also die Bewertungsskala (Grundform entschieden, E-004; Details im [Bewertungsmodell](02-bewertungsmodell.md)) und die erste Liste der Anforderungsbereiche (übernommen, E-007; siehe [Anforderungsbereiche](03-anforderungsbereiche.md)).
 - 1d: Einfache Skizzen der wichtigsten Bildschirme erstellen, bevor Code entsteht.
 
 ### Phase 2: MVP in kleinen, testbaren Schritten

@@ -91,12 +91,25 @@ Hier wird jede abgestimmte Entscheidung mit Datum und Begründung festgehalten. 
 
 ---
 
+## E-007: Listen A und B vollständig als Anforderungsbereiche übernehmen
+
+- **Datum:** 2026-11-05
+- **Status:** entschieden
+- **Entscheidung:** Die Listen A (14 neurologische und propriozeptive Bereiche) und B (16 mechanische und strukturelle Bereiche) aus dem Projektauftrag werden vollständig in den Katalog übernommen. Bei jeder Anforderung werden nur die relevanten Bereiche eingeschaltet.
+- **Begründung:** Nichts geht verloren, und die Auswahl trifft der Trainer bei jeder Anforderung selbst. Die Bereiche sind Inhalte im Fachwissen und lassen sich jederzeit ausblenden oder umbenennen.
+- **Nicht gewählt:** mit einer kleinen Kernauswahl von 8 bis 10 Bereichen zu starten.
+- **Details:** [03-anforderungsbereiche.md](03-anforderungsbereiche.md)
+
+---
+
 ## Offen
 
 | Thema | Wo beschrieben | Stand |
 |---|---|---|
 | Konzeptentwurf Phase 1 | [01-konzept.md](01-konzept.md) | Entwurf, noch nicht abgestimmt |
-| Erste Liste der Anforderungsbereiche | [01-konzept.md, Abschnitt 3](01-konzept.md#3-grundlegende-datenstruktur) | nächster Schritt |
+| Überschneidungen in den Anforderungsbereichen | [03-anforderungsbereiche.md, Abschnitt 3](03-anforderungsbereiche.md#3-überschneidungen-offen) | nächster Schritt |
+| Kurzbeschreibung je Anforderungsbereich | [03-anforderungsbereiche.md](03-anforderungsbereiche.md) | noch nicht begonnen |
+| Liste C bei Belastungssituationen statt bei Anforderungen bewerten | [01-konzept.md, Abschnitt 5](01-konzept.md#5-mechanische-neurologische-und-propriozeptive-anforderungen-und-die-drei-bewegungsebenen) | Vorschlag, noch nicht abgestimmt |
 | Aufteilung nach Gerät (Handy für schnelle Einträge, Laptop für Analyse) | [01-konzept.md, Abschnitt 6](01-konzept.md#6-technische-architektur) | Vorschlag, noch nicht abgestimmt |
 | Technik (Programmiersprache, Bildschirme, Datenbank) | [01-konzept.md, Abschnitt 6](01-konzept.md#6-technische-architektur) | Vorschlag liegt vor (TypeScript, React, relationale Datenbank) |
 | Anbieter für Server und Datenbank | – | offen, wird vor Beginn von Phase 2 geklärt |
