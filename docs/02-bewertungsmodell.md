@@ -1,7 +1,7 @@
 # Bewertungsmodell
 
 > **Status: teilweise entschieden.**
-> Entschieden ist die Grundform der Skala ([E-004](entscheidungen.md)). Die Stufenbeschreibungen und die Zuordnung der Referenzsituationen sind ein Vorschlag, der noch nicht abgestimmt ist.
+> Entschieden sind die Grundform der Skala ([E-004](entscheidungen.md)) und die Angabe „statisch / dynamisch“ (E-005). Die Stufenbeschreibungen und die Zuordnung der Referenzsituationen sind ein Vorschlag, der noch nicht abgestimmt ist.
 
 Fachliche Aussagen sind wie im [Konzeptentwurf](01-konzept.md) gekennzeichnet: **[belegt]**, **[plausibel]**, **[Arbeitshypothese]**.
 
@@ -67,7 +67,29 @@ Referenzsituationen gehören zu einem **Anforderungsbereich in einer Körperregi
 
 ---
 
-## 4. Offene Punkte
+## 4. Angabe „statisch / dynamisch“ (entschieden, E-005)
+
+Zu jeder Bewertung gibt es neben der Stufe die Angabe **statisch** oder **dynamisch**. Sie ist optional und kann leer bleiben, genauso wie die Bewegungsebene.
+
+**Warum eine eigene Angabe und keine Stufe auf der Skala:** Die Skala gibt an, *wie hoch* eine Belastung ist. „Statisch / dynamisch“ beschreibt, *wie* belastet wird. Wäre „statisch“ die unterste Stufe, hieße das automatisch, dass statisch immer leichter ist als dynamisch. Das gilt bei der Kontrolle oft. Bei mechanischer Belastung gilt es häufig nicht: Eine schwere isometrische Haltung kann ein Gelenk stärker belasten als eine dynamische Alltagsbewegung.
+
+**Beispiel: Gleichgewicht einbeinig**
+
+| | Stufe | Art |
+|---|---|---|
+| Soll (Treppe absteigen) | 2 | dynamisch |
+| Ist | 2 | statisch |
+
+Ablesbar ist daraus: Das Belastungsniveau ist erreicht, aber nur in Ruhe. Der nächste Schritt ist also der Übergang in die Bewegung und nicht eine höhere Belastung.
+
+**Abgrenzung:**
+
+- Reaktive Belastung bleibt ein eigener Anforderungsbereich und ist kein dritter Wert dieser Angabe.
+- Bei Übungsvarianten mit der Belastungsform „isometrisch“ ergibt sich „statisch“ von selbst.
+
+---
+
+## 5. Offene Punkte
 
 1. Abschnitte 2 und 3 abstimmen.
 2. Danach: erste Liste der Anforderungsbereiche festlegen.

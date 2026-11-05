@@ -60,6 +60,18 @@ Hier wird jede abgestimmte Entscheidung mit Datum und Begründung festgehalten. 
 
 ---
 
+## E-005: Eigene Angabe „statisch / dynamisch“ statt einer Stufe auf der Skala
+
+- **Datum:** 2026-11-05
+- **Status:** entschieden
+- **Entscheidung:** Neben der Stufe 0 bis 4 bekommt jede Bewertung die optionale Angabe „statisch“ oder „dynamisch“. Die Skala selbst bleibt unverändert.
+- **Begründung:** Eine Stufe „statisch“ am Anfang der Skala würde bedeuten, dass statische Belastung immer leichter ist als dynamische. Bei der Kontrolle trifft das oft zu, bei mechanischer Belastung häufig nicht, zum Beispiel bei einer schweren isometrischen Haltung. Als eigene Angabe bleibt sichtbar, ob ein Klient ein Belastungsniveau nur statisch oder auch dynamisch erreicht. Daraus ergibt sich der Progressionsschritt von statisch zu dynamisch.
+- **Nicht gewählt:** „statisch“ als unterste Stufe der Skala, sodass die Skala auf sechs Stufen anwächst.
+- **Anstoß:** Vorschlag des Projektinhabers, „statisch“ an den Anfang der Skala zu setzen.
+- **Details:** [02-bewertungsmodell.md, Abschnitt 4](02-bewertungsmodell.md#4-angabe-statisch--dynamisch-entschieden-e-005)
+
+---
+
 ## Offen
 
 | Thema | Wo beschrieben | Stand |

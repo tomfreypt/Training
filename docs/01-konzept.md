@@ -94,6 +94,7 @@ KLIENTENAKTE (pro Klient)
 | Anforderungsbereich | Exzentrische Belastung |
 | Bewegungsebene *(optional)* | Frontal |
 | Art der Kontrolle *(optional)* | mechanisch oder propriozeptiv |
+| Statisch / dynamisch *(optional)* | dynamisch |
 | Wert | Stufe 0 bis 4 oder „nicht bewertet“ (siehe [Bewertungsmodell](02-bewertungsmodell.md)) |
 | Sicherheit der Einschätzung | gering / mittel / hoch |
 | Herkunft | Beobachtung / Test / Trainingserfahrung / Angabe des Klienten |
