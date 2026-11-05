@@ -11,4 +11,5 @@ Das Tool unterstützt die fachliche Entscheidungsfindung. Es stellt keine Diagno
 ## Dokumentation
 
 - [Konzeptentwurf Phase 1](docs/01-konzept.md)
+- [Bewertungsmodell](docs/02-bewertungsmodell.md)
 - [Entscheidungsprotokoll](docs/entscheidungen.md)
