@@ -72,13 +72,31 @@ Hier wird jede abgestimmte Entscheidung mit Datum und Begründung festgehalten. 
 
 ---
 
+## E-006: Allgemeine Stufenbeschreibungen und Zuordnung der Referenzsituationen
+
+- **Datum:** 2026-11-05
+- **Status:** entschieden
+- **Entscheidung:**
+  - Die Stufen haben allgemeine Beschreibungen: 0 keine, 1 reduziert, 2 Alltag, 3 sportlich, 4 Spitze.
+  - Als Soll bedeutet eine Stufe: Das Ziel verlangt diese Belastung. Als Ist bedeutet sie: Der Klient bewältigt diese Belastung derzeit kontrolliert und verträglich.
+  - Es gibt nur ganze Stufen. Unsicherheit wird über die Angabe „Sicherheit der Einschätzung“ ausgedrückt.
+  - Es wird nicht gerechnet. Lücken werden als „Ist liegt x Stufen unter Soll“ angezeigt, ohne Summen oder Durchschnitte.
+  - Referenzsituationen gehören zu einem Anforderungsbereich in einer Körperregion, zum Beispiel „Exzentrische Belastung, Knie“.
+  - Jede Referenzsituation hat eine Angabe zur Beleglage.
+  - Wird eine Referenzsituation geändert, bleibt gespeichert, gegen welche Fassung frühere Bewertungen vergeben wurden.
+- **Begründung:** Die allgemeinen Beschreibungen machen die Skala sofort nutzbar, auch ohne Referenzsituationen. Die Zuordnung zur Körperregion ist nötig, weil derselbe Anforderungsbereich, etwa exzentrische Belastung, an Knie und Schulter völlig unterschiedlich aussieht.
+- **Einordnung:** Die Abstufung von Alltag zu Sport ist eine Arbeitshypothese und kein geprüftes Messinstrument. Sie wird in der Anwendung überprüft, besonders bei den propriozeptiven Bereichen.
+- **Nicht Teil der Entscheidung:** Das Kniebeispiel (Treppe mit Geländer bis Landung aus einem Sprung) dient nur zur Veranschaulichung.
+- **Details:** [02-bewertungsmodell.md, Abschnitte 2 und 3](02-bewertungsmodell.md)
+
+---
+
 ## Offen
 
 | Thema | Wo beschrieben | Stand |
 |---|---|---|
 | Konzeptentwurf Phase 1 | [01-konzept.md](01-konzept.md) | Entwurf, noch nicht abgestimmt |
-| Stufenbeschreibungen und Zuordnung der Referenzsituationen (Bereich × Körperregion) | [02-bewertungsmodell.md](02-bewertungsmodell.md) | Vorschlag liegt vor |
-| Erste Liste der Anforderungsbereiche | [01-konzept.md, Abschnitt 3](01-konzept.md#3-grundlegende-datenstruktur) | nächster Schritt danach |
+| Erste Liste der Anforderungsbereiche | [01-konzept.md, Abschnitt 3](01-konzept.md#3-grundlegende-datenstruktur) | nächster Schritt |
 | Aufteilung nach Gerät (Handy für schnelle Einträge, Laptop für Analyse) | [01-konzept.md, Abschnitt 6](01-konzept.md#6-technische-architektur) | Vorschlag, noch nicht abgestimmt |
 | Technik (Programmiersprache, Bildschirme, Datenbank) | [01-konzept.md, Abschnitt 6](01-konzept.md#6-technische-architektur) | Vorschlag liegt vor (TypeScript, React, relationale Datenbank) |
 | Anbieter für Server und Datenbank | – | offen, wird vor Beginn von Phase 2 geklärt |

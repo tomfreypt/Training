@@ -1,7 +1,7 @@
 # Bewertungsmodell
 
-> **Status: teilweise entschieden.**
-> Entschieden sind die Grundform der Skala ([E-004](entscheidungen.md)) und die Angabe „statisch / dynamisch“ (E-005). Die Stufenbeschreibungen und die Zuordnung der Referenzsituationen sind ein Vorschlag, der noch nicht abgestimmt ist.
+> **Status: entschieden** ([E-004 bis E-006](entscheidungen.md)).
+> Nur das Kniebeispiel in Abschnitt 3 dient zur Veranschaulichung und ist nicht abgestimmt.
 
 Fachliche Aussagen sind wie im [Konzeptentwurf](01-konzept.md) gekennzeichnet: **[belegt]**, **[plausibel]**, **[Arbeitshypothese]**.
 
@@ -16,7 +16,7 @@ Fachliche Aussagen sind wie im [Konzeptentwurf](01-konzept.md) gekennzeichnet: *
 
 ---
 
-## 2. Allgemeine Stufenbeschreibungen (Vorschlag)
+## 2. Allgemeine Stufenbeschreibungen (entschieden, E-006)
 
 Die Stufen orientieren sich an der Art der Belastung, von reduziert über Alltag und Sport bis zur Spitzenbelastung.
 
@@ -33,7 +33,7 @@ Die Stufen orientieren sich an der Art der Belastung, von reduziert über Alltag
 - **Als Soll:** Das Ziel verlangt Belastung auf dieser Stufe. Stufe 0 heißt, dass dieser Bereich für die Anforderung nicht gefordert ist.
 - **Als Ist:** Der Klient bewältigt Belastung auf dieser Stufe derzeit **kontrolliert und verträglich**. Stufe 0 heißt, dass das derzeit nicht möglich ist.
 
-**Weitere Regeln (Vorschlag):**
+**Weitere Regeln:**
 
 - **Nur ganze Stufen.** Bei Unsicherheit wird kein Zwischenwert vergeben, sondern die Angabe „Sicherheit der Einschätzung“ gesetzt (gering / mittel / hoch).
 - **Es wird nicht gerechnet.** Die Abstände zwischen den Stufen sind nicht gleich groß. Eine Lücke wird deshalb nur so angezeigt: „Ist liegt um x Stufen unter Soll“. Werte werden nie über mehrere Bereiche summiert oder gemittelt.
@@ -42,7 +42,7 @@ Die Stufen orientieren sich an der Art der Belastung, von reduziert über Alltag
 
 ---
 
-## 3. Referenzsituationen (Vorschlag)
+## 3. Referenzsituationen (entschieden, E-006)
 
 ### Zuordnung
 
@@ -91,5 +91,4 @@ Ablesbar ist daraus: Das Belastungsniveau ist erreicht, aber nur in Ruhe. Der n�
 
 ## 5. Offene Punkte
 
-1. Abschnitte 2 und 3 abstimmen.
-2. Danach: erste Liste der Anforderungsbereiche festlegen.
+1. Erste Liste der Anforderungsbereiche festlegen (nächster Schritt).
