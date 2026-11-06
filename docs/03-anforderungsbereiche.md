@@ -54,7 +54,7 @@ Die Kürzel (A01, B01 …) dienen nur zum Verweisen. Sie sagen nichts über eine
 **Nicht in diesen Listen:**
 
 - **Ebenen-Tabelle:** Die Kontrolle in den drei Bewegungsebenen (mechanisch und propriozeptiv) ist eine eigene Struktur jeder Anforderung und kein Eintrag in Liste A oder B (siehe [Konzept, Abschnitt 5](01-konzept.md#5-mechanische-neurologische-und-propriozeptive-anforderungen-und-die-drei-bewegungsebenen)).
-- **Liste C (Belastbarkeit und Sicherheit):** Nach dem Vorschlag im Konzept wird sie bei Belastungssituationen bewertet, also bei Teilaufgaben des Ziels und bei Übungsvarianten, nicht bei Anforderungen. Dieser Vorschlag ist noch nicht abgestimmt.
+- **Liste C (Belastbarkeit und Sicherheit):** Sie wird nicht bei Anforderungen bewertet, sondern bei Belastungssituationen (E-009, siehe Abschnitt 4).
 
 ---
 
@@ -90,6 +90,42 @@ Gruppen sind wie die Bereiche selbst Inhalte im Fachwissen und lassen sich spät
 
 ---
 
-## 4. Offene Punkte
+## 4. Liste C: Merkmale von Belastungssituationen (entschieden, E-009)
 
-1. Kurzbeschreibung für jeden Bereich, damit dieselbe Stufe immer gleich vergeben wird.
+Diese Merkmale werden nicht bei Anforderungen bewertet. Sie gehören zu zwei Arten von Belastungssituationen:
+
+- zu **Teilaufgaben des Ziels**, zum Beispiel „Zweikampf im Fußball“,
+- zu **Übungsvarianten**, zum Beispiel „Split Squat mit Handstütze“.
+
+Graded Exposure wird so als Weg sichtbar: von gut kontrollierbaren Übungen hin zu den weniger kontrollierbaren Situationen des Ziels.
+
+| Kürzel | Merkmal |
+|---|---|
+| C01 | Kontrollierbarkeit der Belastung |
+| C02 | Möglichkeit, die Belastung zu reduzieren oder abzubrechen |
+| C03 | Höhe der Spitzenbelastungen |
+| C04 | Erforderlicher Bewegungsumfang |
+| C05 | Abhängigkeit von Gleichgewicht und Koordination |
+| C06 | Beobachtbarkeit der Reaktion des Klienten |
+| C07 | Dosierbarkeit der Belastung |
+| C08 | Konsequenzen eines Kontrollverlusts |
+
+### Überschneidungen mit Liste A und B (Hinweis, nicht entschieden)
+
+C03, C04 und C05 ähneln Bereichen aus Liste A und B (Spitzenbelastung, B12 Bewegungsumfang, A06 Gleichgewicht, A07 intersegmentale Koordination). Der Unterschied liegt im Blickwinkel:
+
+- **Liste A und B** beschreiben, was eine Anforderung verlangt.
+- **Liste C** beschreibt, wie gut sich eine konkrete Situation steuern lässt.
+
+Ob das in der Praxis zu doppelten Eingaben führt, zeigt sich bei der Anwendung.
+
+### Skala (offen)
+
+Für Liste C ist noch offen, wie bewertet wird (siehe Entscheidungsprotokoll).
+
+---
+
+## 5. Offene Punkte
+
+1. Skala für die Merkmale aus Liste C.
+2. Kurzbeschreibung für jeden Bereich, damit dieselbe Stufe immer gleich vergeben wird.

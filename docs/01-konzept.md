@@ -143,7 +143,7 @@ Jede Anforderung wird in drei Blöcken bewertet:
 - **B: Mechanisch und strukturell.** Dazu gehören zum Beispiel Kraftentwicklung und Kraftaufnahme, Drehmomente, Kompression, Scherkräfte, Rotationsbelastung, Belastungsform, Geschwindigkeit, Bewegungsumfang, Dauer, Wiederholungszahl, externe Last und Belastung unter Ermüdung.
 - **Ebenen-Tabelle:** Sie hat 3 Ebenen und für jede zwei Arten von Kontrolle (mechanisch, propriozeptiv). Ein zusätzliches Feld hält fest, welche Ebenen gleichzeitig gefordert sind, zum Beispiel sagittal und transversal bei einer Landung.
 
-### Vorschlag zu C (Belastbarkeit und Sicherheit)
+### Liste C (Belastbarkeit und Sicherheit) – entschieden, E-009
 
 Die Fragen aus Bereich C, etwa „Wie leicht kann man abbrechen?“ oder „Was passiert bei Kontrollverlust?“, beschreiben keine Anforderung, sondern eine **Belastungssituation**.
 

@@ -124,13 +124,24 @@ Hier wird jede abgestimmte Entscheidung mit Datum und Begründung festgehalten. 
 
 ---
 
+## E-009: Liste C bei Belastungssituationen bewerten
+
+- **Datum:** 2026-11-06
+- **Status:** entschieden
+- **Entscheidung:** Die Merkmale aus Liste C (C01–C08, Belastbarkeit und Sicherheit) werden bei Teilaufgaben des Ziels und bei Übungsvarianten bewertet, nicht bei den einzelnen Anforderungen.
+- **Begründung:** Fragen wie „Wie leicht kann man abbrechen?“ oder „Was passiert bei Kontrollverlust?“ beschreiben eine konkrete Situation und keine Anforderung. Bewertet man sie bei Übungen und bei Teilaufgaben des Ziels, wird Graded Exposure als Weg sichtbar: von gut kontrollierbaren Übungen hin zu kaum kontrollierbaren Situationen des Ziels.
+- **Nicht gewählt:** Liste C wie A und B bei jeder Anforderung zu bewerten.
+- **Details:** [03-anforderungsbereiche.md, Abschnitt 4](03-anforderungsbereiche.md#4-liste-c-merkmale-von-belastungssituationen-entschieden-e-009)
+
+---
+
 ## Offen
 
 | Thema | Wo beschrieben | Stand |
 |---|---|---|
 | Konzeptentwurf Phase 1 | [01-konzept.md](01-konzept.md) | Entwurf, noch nicht abgestimmt |
 | Kurzbeschreibung je Anforderungsbereich | [03-anforderungsbereiche.md](03-anforderungsbereiche.md) | noch nicht begonnen |
-| Liste C bei Belastungssituationen statt bei Anforderungen bewerten | [01-konzept.md, Abschnitt 5](01-konzept.md#5-mechanische-neurologische-und-propriozeptive-anforderungen-und-die-drei-bewegungsebenen) | Vorschlag, noch nicht abgestimmt |
+| Skala für die Merkmale aus Liste C | [03-anforderungsbereiche.md, Abschnitt 4](03-anforderungsbereiche.md#4-liste-c-merkmale-von-belastungssituationen-entschieden-e-009) | nächster Schritt |
 | Aufteilung nach Gerät (Handy für schnelle Einträge, Laptop für Analyse) | [01-konzept.md, Abschnitt 6](01-konzept.md#6-technische-architektur) | Vorschlag, noch nicht abgestimmt |
 | Technik (Programmiersprache, Bildschirme, Datenbank) | [01-konzept.md, Abschnitt 6](01-konzept.md#6-technische-architektur) | Vorschlag liegt vor (TypeScript, React, relationale Datenbank) |
 | Anbieter für Server und Datenbank | – | offen, wird vor Beginn von Phase 2 geklärt |
