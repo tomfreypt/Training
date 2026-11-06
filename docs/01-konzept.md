@@ -17,6 +17,11 @@ Fachliche Aussagen sind gekennzeichnet:
 
 **In einem Satz:** Das Tool unterstützt die fachliche Entscheidungsfindung. Es ist kein Programm, das Trainingspläne erzeugt. Es zeigt zwei Dinge nebeneinander: was das Ziel eines Klienten verlangt und was er aktuell kann. Beides wird getrennt nach Anforderungsbereich und Bewegungsebene dargestellt. Außerdem dokumentiert es, wie diese Lücke Schritt für Schritt durch Belastungssteigerung geschlossen wird.
 
+### Leitprinzipien (entschieden, E-010)
+
+1. **Anwendbarkeit im Training mit echten Menschen geht vor Theorie.** Jede Funktion muss im Alltag mit Klienten nutzbar sein, auch auf dem Handy während einer Einheit. Was in der Praxis zu aufwendig ist, wird vereinfacht.
+2. **Das System bleibt immer erweiterbar.** Neue Bereiche, Module und Funktionen müssen sich ergänzen lassen, ohne Bestehendes umzubauen.
+
 ### Grundidee: zwei getrennte Bereiche
 
 - **Fachwissen** gilt für alle Klienten und wächst mit der Erfahrung. Dazu gehören Anforderungsbereiche, Bausteine wie „einbeinige exzentrische Kniekontrolle“, Vorlagen für typische Ziele, Übungen und Progressionswege.

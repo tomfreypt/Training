@@ -135,6 +135,18 @@ Hier wird jede abgestimmte Entscheidung mit Datum und Begründung festgehalten. 
 
 ---
 
+## E-010: Leitprinzipien Praxistauglichkeit und Erweiterbarkeit
+
+- **Datum:** 2026-11-06
+- **Status:** entschieden
+- **Entscheidung:** Für das ganze Projekt gelten zwei Leitprinzipien:
+  1. Das Vorgehen und das System zielen auf maximale Anwendbarkeit im Training mit echten Menschen und nicht auf Theorie.
+  2. Das System bleibt immer erweiterbar.
+- **Begründung:** Vorgabe des Projektinhabers.
+- **Folge:** Jede künftige Entscheidung wird daran gemessen, ob sie im Training mit Klienten nutzbar ist. Detailfragen werden möglichst vorläufig entschieden und an echten Fällen überprüft, statt sie vorab theoretisch zu klären.
+
+---
+
 ## Offen
 
 | Thema | Wo beschrieben | Stand |
