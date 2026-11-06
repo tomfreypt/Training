@@ -102,12 +102,33 @@ Hier wird jede abgestimmte Entscheidung mit Datum und Begründung festgehalten. 
 
 ---
 
+## E-008: Überlappende Anforderungsbereiche in Gruppen mit Unterbereichen ordnen
+
+- **Datum:** 2026-11-06
+- **Status:** entschieden
+- **Entscheidung:**
+  - Es gibt vier Gruppen: Propriozeption (A01–A03), Sensorik und Gleichgewicht (A04–A06, A13, A14), Antizipation (A09, A10) und Belastungsform (B07–B10).
+  - Alle übrigen Bereiche sind Einzelbereiche.
+  - Bewertet wird die Gruppe, ein Unterbereich oder beides. Die Gruppe „Belastungsform“ wird nur über ihre Unterbereiche bewertet.
+  - Gruppenbewertungen werden nie aus den Unterbereichen errechnet.
+  - Lücken werden nur angezeigt, wenn Soll und Ist auf derselben Ebene bewertet sind.
+- **Begründung:**
+  - Alle Bereiche bleiben erhalten.
+  - Doppelte Bewertungen werden vermieden.
+  - Die Auswahl auf dem Handy wird kürzer.
+  - Feinere Bewertungen sind nur dort nötig, wo sie für den Klienten wichtig sind.
+- **Nicht gewählt:**
+  - alle Bereiche ungeordnet nebeneinander zu lassen
+  - überlappende Bereiche zusammenzulegen
+- **Details:** [03-anforderungsbereiche.md, Abschnitt 3](03-anforderungsbereiche.md#3-gruppen-mit-unterbereichen-entschieden-e-008)
+
+---
+
 ## Offen
 
 | Thema | Wo beschrieben | Stand |
 |---|---|---|
 | Konzeptentwurf Phase 1 | [01-konzept.md](01-konzept.md) | Entwurf, noch nicht abgestimmt |
-| Überschneidungen in den Anforderungsbereichen | [03-anforderungsbereiche.md, Abschnitt 3](03-anforderungsbereiche.md#3-überschneidungen-offen) | nächster Schritt |
 | Kurzbeschreibung je Anforderungsbereich | [03-anforderungsbereiche.md](03-anforderungsbereiche.md) | noch nicht begonnen |
 | Liste C bei Belastungssituationen statt bei Anforderungen bewerten | [01-konzept.md, Abschnitt 5](01-konzept.md#5-mechanische-neurologische-und-propriozeptive-anforderungen-und-die-drei-bewegungsebenen) | Vorschlag, noch nicht abgestimmt |
 | Aufteilung nach Gerät (Handy für schnelle Einträge, Laptop für Analyse) | [01-konzept.md, Abschnitt 6](01-konzept.md#6-technische-architektur) | Vorschlag, noch nicht abgestimmt |
